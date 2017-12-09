@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-11-18T12:22:55Z" product-name="till_manager">
+		<header/>
+		<body>
+			<trans-unit id="tx_tillmanager_domain_model_product">
+				<source>Product</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_product.code">
+				<source>Code</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_product.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_product.price">
+				<source>Price</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_product.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_order">
+				<source>Order</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_order.number">
+				<source>Number</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_order.client_name">
+				<source>Client Name</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_order.date">
+				<source>Date</source>
+			</trans-unit>
+			<trans-unit id="tx_tillmanager_domain_model_order.products">
+				<source>Products</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
